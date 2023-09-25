@@ -1,9 +1,7 @@
-Nikolas Milanovic
-20844760
-kotlinc-jvm 1.8.20 (jre 18.0.2)
-macOS Monterey 12.5.1
+*Final Product:*
 
-Und
+<img width="1000" alt="image" src="https://github.com/Nikolas-Milanovic/File-Explorer/assets/59632554/1e03fd2e-2e26-4813-a403-f3e63e57665d">
+
 
 Additional features:
 * File content display fits as expected, PLUS dynamically resizes if the user changes the window size
